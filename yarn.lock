@@ -4127,17 +4127,9 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-swipe-js-iso@^2.0.4:
+"swipe-js-iso@git+https://github.com/gin-to-ki/swipe-js-iso.git":
   version "2.0.4"
-  resolved "https://registry.yarnpkg.com/swipe-js-iso/-/swipe-js-iso-2.0.4.tgz#3371608112b30182e898f61d5bc02f7e38099c3d"
-
-"swipe-js-iso@git+https://github.com/gin-to-ki/react-swipe.git":
-  version "5.1.1"
-  resolved "git+https://github.com/gin-to-ki/react-swipe.git#5ce06445d7401435a91f35b372482ecd62356e4f"
-  dependencies:
-    object-assign "^4.1.1"
-    prop-types "^15.6.0"
-    swipe-js-iso "^2.0.4"
+  resolved "git+https://github.com/gin-to-ki/swipe-js-iso.git#e365c702031e52b6bf638b085718c29c468f3802"
 
 syntax-error@^1.1.1:
   version "1.4.0"
