@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/voronianski/react-swipe.git"
+    "url": "git+https://github.com/gin-to-ki/react-swipe.git"
   },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0",
-    "swipe-js-iso": "git+https://github.com/gin-to-ki/react-swipe.git"
+    "swipe-js-iso": "git+https://github.com/gin-to-ki/swipe-js-iso.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
